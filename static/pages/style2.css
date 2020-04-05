@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lobster&family=Oswald&family=Pacifico&display=swap');
+
+.header {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.5);
+    background: rgba(78,201,127,0.5);
+    background: -moz-linear-gradient(left, rgba(78,201,127,1) 0%, rgba(217,255,0,0.5) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(78,201,127,0.5)), color-stop(100%, rgba(217,255,0,1)));
+    background: -webkit-linear-gradient(left, rgba(78,201,127,1) 0%, rgba(217,255,0,0.5) 100%);
+    background: -o-linear-gradient(left, rgba(78,201,127,1) 0%, rgba(217,255,0,0.5) 100%);
+    background: -ms-linear-gradient(left, rgba(78,201,127,1) 0%, rgba(217,255,0,0.5) 100%);
+    background: linear-gradient(to right, rgba(78,201,127,1) 0%, rgba(217,255,0,0.5) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4ec97f', endColorstr='#d9ff00', GradientType=1 );
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    padding: 5px;
+}
